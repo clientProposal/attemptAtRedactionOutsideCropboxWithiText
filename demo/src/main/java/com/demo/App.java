@@ -34,7 +34,7 @@ public class App {
         } catch (Exception e) {
             System.err.println(e);
         }
-        
+
         try (PdfDocument pdfDoc = new PdfDocument(new PdfReader(input), new PdfWriter(outputOutsideCropbox))) {
             List<PdfCleanUpLocation> locations = new ArrayList<>();
             PdfPage page2 = pdfDoc.getPage(2);
@@ -49,11 +49,9 @@ public class App {
             // locations.add(new PdfCleanUpLocation(2, new Rectangle(200, 0, 1000, heightCropbox), null));
             // // (w, h, x, y)
             // // x-axis 0 is left-hand side, y-axis 0 is bottom
-            locations.add(new PdfCleanUpLocation(2, new Rectangle(xCropboxStarts, yCropboxStarts, widthCropbox, (heightRedactions * -1)), null));
-            System.err.println("start in the bottom, left-hand corner and extend across the entire x axis, - 1000 below cropbox left-hand corner of 0");
-            System.err.println(xCropboxStarts, yCropboxStarts, widthCropbox, (heightRedactions * -1));
-            locations.add(new PdfCleanUpLocation(2, new Rectangle(xCropboxStarts, yCropboxEnds, widthCropbox, heightRedactions, null)));
-            System.err.println("start in the top, left-hand corner and extend across the entire x axis, + 1000 above cropbox left-hand corner of 0");
+            locations.add(new PdfCleanUpLocation(2, new Rectangle(xCropboxStarts, yCropboxEnds, widthCropbox, heightRedactions), null));
+            locations.add(new PdfCleanUpLocation(2, new Rectangle(xCropboxStarts, yCropboxStarts - heightRedactions, widthCropbox, heightRedactions), null));
+            // locations.add(new PdfCleanUpLocation(2, new Rectangle(xCropboxStarts, yCropboxEnds, widthCropbox, heightRedactions), null));
             
             PdfCleanUpTool cleaner = new PdfCleanUpTool(pdfDoc, locations, new CleanUpProperties());
             cleaner.cleanUp();
