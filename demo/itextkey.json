@@ -1,0 +1,163 @@
+[
+  {
+    "product": "itext-core",
+    "licensee": {
+      "company": "Test",
+      "name": "Test Test",
+      "email": "josephine.geoghegan@apryse.com"
+    },
+    "key": "69b74f0981378c2453631929278577422ee90e0bcaa27422acc380afde75845d",
+    "creationDate": "2025-07-25",
+    "expirationDate": "2025-08-25",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "HTNGq5NN5fmaMJbESSdyfWUEVgJGc+mzhSA9oDil925ZtMlKN0SY8bxYOoRgXj82iCkprAHO8nCVAAhUUe9lSPbyPX91HTVWaqy9VUYFI9IvGvzEk/uOy7MZVv4/GHw491DsiImA4Z0ZGUWJ23c6DfILdneljD/Lch9GH1OubjvBjyIPVUEOtMaZK9P1IhMhb5wrHEiQqgP8UTPkVirnTwhF+Rm7mUnFTEpktt8mFp4VSPrqDoClYFwQ3AcgB4UX90gZWgLbWTdNSxsA4cDvosUqG2M1iyVlU2jBPIgRQYiZ2oP10E2YgeQb+GjYXZaNUYltnYYzT8wEt1VBFcPTYLi044spcExgZuh+nDC779z9TRNOV2FC5zgkkRDaLNq3L5HwhqlIyosAKsBMDAe71+H5n3t+2OBjsOdVen9w4OrLKjlRfh/VYiKOmqi7amg1ep6N1xHVOaF2nGzI4UKcEsuzMHm9J34rrEY2vHvO25SAzJO7i91qU1FIpexiaYjsGInLQ8hDPwgo/6eiAaIJg/tQRXf+KZ+C2SeKhEM7+Yn7XCkpPI24ozOCUrx9VMgrB8bNcGFWmE08f7HN2rVGua+qf/K5gD2dDUMCgrYSdhx8ml1FtDpGXu52v16dNGa4121wzCTKd0mMFvrr6FNEdERCbuawi+QscA7aaBnGczo="
+  },
+  {
+    "product": "pdfXfa",
+    "licensee": {
+      "company": "Test",
+      "name": "Test Test",
+      "email": "josephine.geoghegan@apryse.com"
+    },
+    "key": "69b74f0981378c2453631929278577422ee90e0bcaa27422acc380afde75845d",
+    "creationDate": "2025-07-25",
+    "expirationDate": "2025-08-25",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "LCttwru53TnAs4yHtt44WamK/FIa453kZ7dAEusxBH2jF0AgJ1zmwLbBAD75AjyPv3fGDwgV64xdYXq0JesprTXvNdejYd91/+4W3ojbbkoaxZ5fOdJ5HxZofW2mZSnwLMtsIW+Z9CET+Iw0xb6Gh+cATpLv4lEvHB/nqL/z9UDdYdwrUK6FSHY5dXTzj9tesRp6sNHivScHetPTYInCTSOSAwCUFzbwr/ZghAqNnqhNL2S93T5FlcfJzA4zPoSHk+jOznhHsZRGNrArz2j4SFne2gwVDBpgGxBloUr/C5xBb41O/YMrlI7QzecO41GpF75oAXzLa+9WO/eR6EmYInc5Xl2zR06TZeyZzFPrsd5BE7mRMUa/MrAmerUv2oqsR0r2oDqRmR+ttBpjhznLSOfMTJHuX70ZWmFUf4oWDzuhoEXiuJv8yS9TQcUgjL3fz8xzkhVlVKTCHVFpKDcpEoCCj0YRxxdwJMHGizj8qjNxvtTDNDEL37WeP6bndvOgMdYDXZ5BqVHIuoyy6SI9cE0qxWJf4+6/qJVmo2e1PMxyxwAR440fmiePKUn5m4zZKNRdEhFoNSa9j3Six1EboCCvwNRpZHOh43H6L+gN4dv47xGcUbjjCsU1wzHmse8XLaCFIKHXW9JIhC3/c4N7IlgHfT4r4pp7Ad/iS+v5B6A="
+  },
+  {
+    "product": "pdfSweep",
+    "licensee": {
+      "company": "Test",
+      "name": "Test Test",
+      "email": "josephine.geoghegan@apryse.com"
+    },
+    "key": "69b74f0981378c2453631929278577422ee90e0bcaa27422acc380afde75845d",
+    "creationDate": "2025-07-25",
+    "expirationDate": "2025-08-25",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "DyLyEdSKYTzSo/0KYa3khBFeLudgAqBxVbVS03i8/yljC3nEOYMplFpyc6FE4QwRPNdvjK2YWelXB94ZC/aJWP1XkBQBxBAYzzaydYiT1sA4DIH0t2sOTKflm0gtA3Xusvv/CoEpnewSg/BU4pjCJOP68d/CXeomoKQC8XlfZSXk7qkxEfOFi9B/NArV5kDqoUW8yKPBoJNMDUb7fz0m4EHZbZma7rBb1GTGe/eFdFhGZ4YWjnvfsb53RcSf/ISHOFFM4j+Xbros+Z8ykiVIB0TcYd2Zo0Y6mtQqtbk+cVgscoLdrrZrDcVCdvWKcX1mm7xmGuzKmcol0qJAAP/TrcLuz8YaeNVb44HMON22og6KMDDRdTZ0mgSx3p7PlpdvHi+m+LBJM68uz1TeKfkVFApV7GjVmeC3FpxISFRGZyqOHBilGAzu4Vw1SNIdeELWUph8WIeV79W0RkIY9RZosLLS2ilBP9iomkK83av4+gctlEqFbQ0D4CHM0lbtF28FiUxcQSKj4ZaGAbfvN0CcIPmmeRsiR28X3faEpqg1NLG+xy5yMp3RBH1OV+i46Zkd6NeGjYIzJiZ7NeJ4bW/DiZxjx1erKg+xZR5HfJgwpgHXaa3sHLroNyIRRtOAtc7I/6sie9STKq1WhYWvIvJ9U1IfXi7ctdw4zSfjMcBKUKE="
+  },
+  {
+    "product": "pdfOcr-tesseract4",
+    "licensee": {
+      "company": "Test",
+      "name": "Test Test",
+      "email": "josephine.geoghegan@apryse.com"
+    },
+    "key": "69b74f0981378c2453631929278577422ee90e0bcaa27422acc380afde75845d",
+    "creationDate": "2025-07-25",
+    "expirationDate": "2025-08-25",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "C7e1msY7WCIMxafCVD8z0ujLA4adIP7yXS9HMtvhru/0MGWnTEq/lydG3IZbkEaQsusYzQ59ZIl8OIx9C7NQ3yIau6VAdb4uCBkQ9YwMoZrOgbKPc3yz0RW4OXyHwsU13qG+7bZYjURcstQcJchv0hGkkm9UH7dzZDUjk57tWWCKdKcOGlWeL41evSGw/fp2U63M/qKkWuhnmIJYoAavZiz1rxmZ5gY7aFApy1e5jtO4NlL1UDbiOwkAWqZmrdbp/uyRgXiaHi1U6N6uPmOB3msEsDvlQfkxt+0Lgjt6Rj3QfZn9hmVDJkn/sv2575IVLEwe86+iE9cE16247k95gXRhYjJlY+JlPwXsLb4gIg2dhy8PoxcZgDnPlmBX5EME9C37xft5uczUf3nW6I73K1edegtcc8lVzgh8Z966HlX26goxY7W62y38bUhVyN5lfVf4lXX27MLBIrI0/LKlJFY1nVeVwWw+DQHvtOxHWDvWzQAcJaOJSdAfBXZtCGR/D3E6FCJrwKvGyOei24l5BjZhXJXUw0xoZgFZ6ysu2TS7IKehzStiMMaGlf4cR6mIZ/V9XCeJvRjX3KSrAycNUtMXqNjYDQtOvEMOwzCeMc1nOuMjEXJBql0f884q+p4BGuQ394JO0BZmIOyTUGbiz4UFZ+bqp/n+tcRxrQAE+hU="
+  },
+  {
+    "product": "pdfOptimizer",
+    "licensee": {
+      "company": "Test",
+      "name": "Test Test",
+      "email": "josephine.geoghegan@apryse.com"
+    },
+    "key": "69b74f0981378c2453631929278577422ee90e0bcaa27422acc380afde75845d",
+    "creationDate": "2025-07-25",
+    "expirationDate": "2025-08-25",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "Preilp7azxg68LcaL9vDk4IJkjEygMLojZRGHCxT+/27UBkOutcCXKhO9Xm+LGQMpyvf9R+UHfMTZ0FpZtLT6058SgNcXniFWsJOe3CXKZAnTDKy4OzLxT8OR3xu2QzhUcxSHNPul+IfgBsKK539RONmjHZ9j2TrFC9y/VWDU+j2f5MM6FIegdcZ0XqyYHCzyBZp1cpQw9DLn1vNxhY9izq44jAtZfnE959ux8o2nejm7ZPCVvKoAChZH20MNNE9i/ReGyup6xr2QhBr15Ea27d/Jsy1cRotRxNmuPp3JLjYhNe+MxUds0rXMKIaPGJb8BIDZq4KGSs5Y8gaJ48wobJkqlvRVbh4ZAfwvIpuvvmjcWYuYGmZoCX5XpfbRg++ns8b0FRV5R4nVeOXtW566xzucWERtZy5bb5lXKR5dY0ObRjfq1Yvh4Ze+zRlD6b8Q65XWEIq6uSD5+N9/+WuTvnSYcy5HbmSAr2MQ5LjUoYFs5myThLy6ccmnnWuzihKMn6sjxwkaa2aCPfwBwz9SQ/96QSw89pfFSPfE05ExESpIHu8FkQT6TMh4k4xjH+SLM0HKqCS4Eqve53u56YWL3nCoZb8Kzsc4oL4GHr4LzcOqNIMz9WP3ZKbDreQd0Ei22FuLbrA9rc2+S1C9uZxwm+es6EhQCjuwrf+GPmoFRY="
+  },
+  {
+    "product": "pdfHtml",
+    "licensee": {
+      "company": "Test",
+      "name": "Test Test",
+      "email": "josephine.geoghegan@apryse.com"
+    },
+    "key": "69b74f0981378c2453631929278577422ee90e0bcaa27422acc380afde75845d",
+    "creationDate": "2025-07-25",
+    "expirationDate": "2025-08-25",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "Z+dsQVZuh+FbD9MI+FE2MUlo8ZRW+HqUN5MiMzAXembqGiJ3JUls2jXE9oLSOKZIt5inddCw7G6X8soMIvttsA4o+r+H4etsp47Zu2svu3R7L1SOdvx9NGgXdG1g5eQpcsh2qGY59js06Zs5Sv+RX4fAFAh+MfFiP1mQjaJPj6d/VMYNRBdWPFiVw5cWNjbqgqPNSy4wsRK+BeNjUFcp04MffOiNezJitIyzyksoOFs788uZPR/w0LKam+plY/JC48VFa9zP+iyx8rkgmQpbVXUAxtYUFA5LBpiyatyuwMy4OmXyInmJZv+qMCH8qSwiUwIRXy6W95zS1MthVZMtGrVR4JS29nRinpiF0znfbBL87PaL+DuF/9z5pMB5gx0U4ZS4fqF1ccuLxo2/orOCPNFoy+7yoW9o5UirsaVZpcuS5LlfYNlndJh/7jEswL3QZEw31/Nu4UlyxIQO7dBCK1CRwMESmPtMWubkUDHmbdEXi4iR2tG3tLxz/gs7Cfx3EdzC9XeDAWE1AZLQB/nS5dQocFxMuEzTx29RQBF7Av5twpbd+QFTuTs6YvspjCreoQ4bE6ZNNWQHZB4F1YjKOsVWCQqR5/lQoKiSXP3EPEoEb0ikS7CqxaZhsNZHnlRnNfxonSyJUUU0s1/nzDv6//UyUh+ehdtr6kBiu20edAI="
+  },
+  {
+    "product": "pdfCalligraph",
+    "licensee": {
+      "company": "Test",
+      "name": "Test Test",
+      "email": "josephine.geoghegan@apryse.com"
+    },
+    "key": "69b74f0981378c2453631929278577422ee90e0bcaa27422acc380afde75845d",
+    "creationDate": "2025-07-25",
+    "expirationDate": "2025-08-25",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "PjmL5h+fzJMZ+e+nJAMwqCeMLXjHDRLc+p3HCAucjli3e19z3I9vGZMvSn1kmeMmqgXIlKnTHRjWbWZArLELVI7n1Hx8BgPuW5H9q69q/dD2dkkNPdFdbjQJ7dmfPdvv2mgXr+2LYqTiO5fU6Fripy/3FKyU+E1JLG6De24Kb8eTmWBTlbk86C7rd8uCjxydOWRUtHqqDtFwhBCbCDF94ATr/Uxr1sfE3XILEmBL/0xWrziw4iujJm+yLxpRciZho8XIJ5zY7QhiuqnE1fJHs+5zZOpbYrFXxyNQ5iAQfpYAXrTT55sGfqolrEY0Mf+wQmxvOwzgShnKuLumcuQTWakbGEEEMOLjMaIiuH59savLay4XJu95WR+ke9jauJFYjBesAYQCZYMHsWEX0kZD0eKdhoHP2Hb2/doy4sQLjU/6hzFvFc8dVxfhdosvHA2sS8Df1gU3HCCBdMTeHyAoIK6Sx7aUjQZb0R83DR4TYCEtmML4vPWyntHzg24k4SILQ/qHGM0Y11QTsftrQ0XCNC6+ijXZkaYpgoYWLM+gphv0sSzsNjQ56tJKkf1vbHdxUT//+o/sRB5L14kn/Wt+yiywZ03rPu+feibwmnaN1rjJpYNmllZ84ZgROTT4rEl3KI4Vl/YpKGRoa+rBWkCURL9cZbwL1ylvwAP3sTzA/eM="
+  }
+]
