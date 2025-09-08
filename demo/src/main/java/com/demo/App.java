@@ -18,12 +18,7 @@ public class App {
             PdfPage page2 = pdfDoc.getPage(2);
             Rectangle cropbox = page2.getCropBox();
             float heightCropbox = cropbox.getHeight();
-            float widthCropbox = cropbox.getWidth();
-            float xCropboxStarts = cropbox.getX();
-            float yCropboxStarts = cropbox.getY();
-            float xCropboxEnds = cropbox.getX() + widthCropbox;
-            float yCropboxEnds = cropbox.getY() + heightCropbox;
-            float widthRedactions = 1000;
+
             locations.add(new PdfCleanUpLocation(2, new Rectangle(0, 200, 1000, heightCropbox), null));
             // // (w, h, x, y)
             // locations.add(new PdfCleanUpLocation(2, new Rectangle(xCropboxStarts-widthRedactions, yCropboxStarts, widthRedactions, heightCropbox), null));
@@ -43,14 +38,13 @@ public class App {
             float widthCropbox = cropbox.getWidth();
             float xCropboxStarts = cropbox.getX();
             float yCropboxStarts = cropbox.getY();
-            float xCropboxEnds = cropbox.getX() + widthCropbox;
             float yCropboxEnds = cropbox.getY() + heightCropbox;
             float heightRedactions = 1000;
             // locations.add(new PdfCleanUpLocation(2, new Rectangle(200, 0, 1000, heightCropbox), null));
             // // (w, h, x, y)
             // // x-axis 0 is left-hand side, y-axis 0 is bottom
             locations.add(new PdfCleanUpLocation(2, new Rectangle(xCropboxStarts, yCropboxEnds, widthCropbox, heightRedactions), null));
-            locations.add(new PdfCleanUpLocation(2, new Rectangle(xCropboxStarts, yCropboxStarts - heightRedactions, widthCropbox, heightRedactions), null));
+            locations.add(new PdfCleanUpLocation(2, new Rectangle(xCropboxStarts, (yCropboxStarts - heightRedactions), widthCropbox, heightRedactions), null));
             // locations.add(new PdfCleanUpLocation(2, new Rectangle(xCropboxStarts, yCropboxEnds, widthCropbox, heightRedactions), null));
             
             PdfCleanUpTool cleaner = new PdfCleanUpTool(pdfDoc, locations, new CleanUpProperties());
